@@ -17,6 +17,8 @@ After downloading the compiled version from poggit, simply put the file in your 
 
 Players can decide if they want to pickup items or not by simply typing a command ``/itemfilter``
 
+This requires permission ``itemfilter.use``
+
 ### How to configure?
 
 Not much configuration, server operator can decide if pop-ups should appear when player decides to pickup items whilst item filter being enabled.
