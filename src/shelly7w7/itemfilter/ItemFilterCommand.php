@@ -17,7 +17,7 @@ class ItemFilterCommand extends Command implements PluginIdentifiableCommand{
 
 	public function __construct(Main $plugin){
 		parent::__construct("itemfilter", "Turn on/off item filter.", "/itemfilter", ["filter"]);
-		$this->setPermission("healthtag.configure");
+		$this->setPermission("itemfilter.use");
 		$this->plugin = $plugin;
 	}
 
