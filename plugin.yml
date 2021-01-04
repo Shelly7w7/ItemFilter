@@ -1,0 +1,6 @@
+name: ItemFilter
+version: 1.0.0
+author: Shelly7w7
+main: shelly7w7\itemfilter\Main
+description: "Let your players choose if they want to pickup items or not!"
+api: [3.0.0]

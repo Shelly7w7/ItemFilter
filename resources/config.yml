@@ -1,0 +1,16 @@
+#  _____ _______ ______ __  __ ______ _____ _   _______ ______ _____
+# |_   _|__   __|  ____|  \/  |  ____|_   _| | |__   __|  ____|  __ \
+#   | |    | |  | |__  | \  / | |__    | | | |    | |  | |__  | |__) |
+#   | |    | |  |  __| | |\/| |  __|   | | | |    | |  |  __| |  _  /
+#  _| |_   | |  | |____| |  | | |     _| |_| |____| |  | |____| | \ \
+# |_____|  |_|  |______|_|  |_|_|    |_____|______|_|  |______|_|  \_\
+
+# Hello everyone! Welcome to the small but worthy configuration of ItemFilter.
+# Have a suggestion? Open an issue on the github and I'll try my best to add it or fix it as soon as possible!
+# It's not confirmed if this plugin supports any forks or spoons of PMMP, It is recommended to use it on PocketMine-MP only!
+
+# Want to send a pop-up when someone tries to pickup items, having item filter enabled? Set it to 'true', if not then set it to 'false'.
+# You can also configure the message of the pop-up. Use '§' for colors.
+toggle-popup: true
+popup-message: "Item Filter is toggled on."
+# Enjoy the plugin!
