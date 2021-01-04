@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Shelly7w7/ItemFilter
+build-by-default: true
+branches:
+- main
+projects:
+  ItemFilter:
+    path: ""
+    icon: icon.png
+...
